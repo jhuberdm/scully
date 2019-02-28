@@ -22,4 +22,5 @@ preview:
     pullPolicy: IfNotPresent
 
 mulder:
-  enabled: false
+  enabled: true
+  
